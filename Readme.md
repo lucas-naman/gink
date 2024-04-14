@@ -4,7 +4,7 @@ Package for geating test files
 
 ## Installation
 
-```go install github.com/luco/gink```
+```go install github.com/lucas-naman/gink```
 
 ## Usage
 
