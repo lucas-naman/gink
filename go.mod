@@ -1,4 +1,4 @@
-module gink
+module github.com/lucas-naman/gink
 
 go 1.22
 
