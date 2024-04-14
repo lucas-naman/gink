@@ -37,8 +37,6 @@ func main() {
 		}
 	}
 
-	fmt.Println(os.Args)
-
 	fileName := folderName + fileSuffix
 	if len(os.Args) >= 2 {
 		fileName = os.Args[1] + fileSuffix
